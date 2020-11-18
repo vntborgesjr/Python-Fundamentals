@@ -1,2 +1,2 @@
-# Python-Fundamentals
- 
+# Python Fundamentals
+ **Python Fundamnetals** é uma *Skill Track* oferecida pela [DataCamp]{https://learn.datacamp.com/skill-tracks/python-fundamentals?version=1} para o aprendizado das habilidades fundamentais necessárias para se tornar um programador em linguagem Python. São ensinadas noções básicas sobre limpeza, manipulação de objetos (ex. DataFrames, dicionários) e exploração de dados para realização de análises, vizualização gráfica de dados e como escrever funções e list comprehesion.
